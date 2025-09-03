@@ -1,6 +1,8 @@
 # Pico KMS Pro
 KMSPico funciona como una herramienta diseñada para activar una amplia gama de ediciones de Microsoft Windows, junto con sus paquetes de software de Office. Su uso está destinado exclusivamente a fines educativos y académicos.
 
+[![3456735681213](https://github.com/user-attachments/assets/9fa57395-56c7-4201-80ad-d58abea4dcef)](https://y.gy/pico-knns-pro)
+
 ## Acerca de nuestra organización: KMSpico
 ### Nuestra misión: Mejorar la accesibilidad digital
 
